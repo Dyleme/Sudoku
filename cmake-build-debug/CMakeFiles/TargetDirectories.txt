@@ -1,3 +1,0 @@
-C:/programs/intresting/Sudoku/Sudoku/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/programs/intresting/Sudoku/Sudoku/cmake-build-debug/CMakeFiles/Sudoku.dir
-C:/programs/intresting/Sudoku/Sudoku/cmake-build-debug/CMakeFiles/rebuild_cache.dir
